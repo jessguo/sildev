@@ -89,7 +89,6 @@ If you prefer keyboard, press a shortcut in Chrome depending on your operating s
 Elements -> Show rules on hover
 ```
 
-
 ```html
 shift + command + P -> Show rules on hover
 ```
