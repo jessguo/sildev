@@ -95,7 +95,6 @@ shift + command + P -> Show rules on hover
 ```
 </v-click>
 
-  
 </div>
 
 ---
