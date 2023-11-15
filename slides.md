@@ -90,7 +90,6 @@ Elements -> Show rules on hover
 ```
 
 
-
 ```html
 shift + command + P -> Show rules on hover
 ```
