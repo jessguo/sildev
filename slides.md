@@ -96,8 +96,7 @@ shift + command + P -> Show rules on hover
 ```
 </v-click>
 
-  <img mt="4" src ="/rules.png">
-  <img mt="4"  src ="/rules2.png">
+  
 </div>
 
 ---
